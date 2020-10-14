@@ -1,0 +1,18 @@
+name: TopKillers
+author: Progr4mm3r
+version: 1.0
+depend: [KitPvP,HolographicDisplays]
+softdepend: [PlaceholderAPI]
+main: me.tolgaozgun.topkillers.PluginMain
+commands:
+     sort:
+        usage: /<command>
+        description: Sort
+     setscoreboard:
+        usage: /<command>
+        description: Sort
+        aliases: [sscore, setloc]
+     disablescoreboard:
+        usage: /<command>
+        description: Sort
+        aliases: [dscore, disloc]

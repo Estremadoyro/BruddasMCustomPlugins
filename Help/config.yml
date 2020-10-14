@@ -1,0 +1,21 @@
+#Permissions
+#Configure the plugin simpleHelp.help
+#Execute the commands simpleHelp.use
+help_message: 
+  - '&d&lThis is the help section'
+  - 'You can add more lines'
+  - 'You can use ALL color codes &' 
+  
+
+sh_help: 
+  - '&3&m-----------&3&l Simple Help &3&m -----------'
+  - '&3&l/sh help: &fOpen help section'
+  - '&3&l/sh reload: &fReload configuration'
+  
+socials:
+  - '&m-----------&5&l BruddasMC &f&l| &b&lSocials &f&m -----------'
+  - '&bTwitter: &fhttps://twitter.com/bruddasmc'
+  - '&dStore: &fhttp://shop.bruddasmc.com/'
+  - '&5Discord: &fhttps://discord.gg/hBBMWX2'
+  - '&cYT: &fhttps://www.youtube.com/speedcellmc'
+  - '&m-----------------------------------------'

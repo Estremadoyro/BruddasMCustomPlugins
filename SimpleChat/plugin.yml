@@ -1,0 +1,14 @@
+name: SimpleChat
+version: 1.0 
+main: org.bruddasmc.chat.Main
+author: Speedcell
+description: Simple plugin to mute and clear the chat, desgined for BruddasMC
+
+commands:
+  mutechat:
+    aliases: [chatmute]
+    description: Mute the chat
+    
+  clearchat: 
+    aliases: [chatclear]
+    description: Clear the chat

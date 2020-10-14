@@ -1,0 +1,7 @@
+appleFoodRegenLevel: 1
+
+appleDropRate: 20 
+
+apple_lore:
+  - '&7» &aCombine x9 to get a'
+  - '&7» &bGolden Apple!'

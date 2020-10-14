@@ -1,0 +1,5 @@
+name: DoubleJump
+version: 1.0
+main: org.bruddasmc.doublejump.Main
+description: This plugin allows the player to double jump  
+author: Speedcell

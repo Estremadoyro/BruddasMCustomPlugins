@@ -1,0 +1,27 @@
+# The period for scoreboard update. (in seconds) Default: 600
+# This means that every 600 seconds the scoreboard will update!
+scoreboard-update: 600
+
+# Maximum players shown in a scoreboard. Default: 10
+# This means only top 10 players will be shown in the scoreboard
+max-players-on-scoreboard: 10
+
+# Kills scoreboard:
+kills-title: "&4Kill Rankings:"
+kills-line: '%ranking%: &6%player%&r: %count%'
+
+# Deaths scoreboard:
+deaths-title: "&4Death Rankings:"
+deaths-line: '%ranking%: &6%player%&r: %count%'
+
+# Experiences scoreboard:
+exps-title: "&4Experience Rankings:"
+exps-line: '%ranking%: &6%player%&r: %count%'
+
+# Levels scoreboard:
+levels-title: "&4Level Rankings:"
+levels-line: '%ranking%: &6%player%&r: %count%'
+
+# K/D Ratios scoreboard:
+ratios-title: "&4K/D Ratio Rankings:"
+ratios-line: '%ranking%: &6%player%&r: %count%'

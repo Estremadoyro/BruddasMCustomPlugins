@@ -1,0 +1,11 @@
+defaultSpawn: 'Survival'
+
+defaultRespawn: 'Survival'
+
+noUsePermission: '&cYou dont have permission to execute this command :('
+
+delayedWarp: '&bPlayers nearby. &b&lWarping in &a&l15 seconds.'
+
+teleport_delay: 15 
+
+warpCancelled: '&cWarp cancelled'

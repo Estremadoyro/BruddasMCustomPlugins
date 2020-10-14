@@ -1,0 +1,5 @@
+name: PlayerDeathMessages
+version: 1.0 
+main: org.bruddasmc.deathmessages.Main
+description: This plugin allows you to set custom death messages including item names 
+author: Speedcell

@@ -1,0 +1,7 @@
+name: SurvivalPlaceholders
+version: 1.0 
+main: org.bruddasmc.survivalplaceholders.Main
+author: Speedcell
+description: Custom placeholders fro BruddaMC Survival Gamemode 
+depend:
+  - PlaceholderAPI

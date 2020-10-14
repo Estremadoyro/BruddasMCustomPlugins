@@ -1,0 +1,10 @@
+name: GappleMechanic
+version: 1.1 
+main: org.bruddasmc.gapplemechanic.Main
+author: Speedcell
+description: BruddasMC gapple mechanic
+
+commands:
+  gpm:
+    aliases: []
+    description: Gamme mechanic command prefix 

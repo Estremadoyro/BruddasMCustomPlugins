@@ -1,0 +1,19 @@
+prefix: '&f&l[Bruddas&5&lMC&f&l]'
+
+mutechat_staff: '<prefix> &f&l<staff> &c&lmuted the chat'
+
+mutechat_players: '<prefix> &c&lChat has been muted'
+
+unmutechat: '<prefix> &3&lChat has been unmuted'
+
+sorrychatmuted: '&c&lSorry! &7Chat is muted.'
+
+sorrynopermission: '&c&lSorry! &7You are not allowed to execute this command.'
+
+configreloaded: '&a&lConfiguration reloaded'
+
+typeattempts: '<prefix> &3&l<count> &f&lbruddas tried to type &3&l<msgs> &f&lmessages in chat.'
+
+clearchat_players: '<prefix> &c&lChat was cleared by a brudda.'
+
+clearchat_staff: '<prefix> &f&l<staff> &c&lcleared the chat.'

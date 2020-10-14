@@ -1,0 +1,10 @@
+name: ServerSwitcher
+version: 1.0
+main: org.bruddasmc.switchservers.Main
+author: Speedcell
+description: Server switcher plugin 
+
+commands:
+  Lobby:
+    aliases: [lobby, hub, Hub]
+    description: Send player to the main lobby

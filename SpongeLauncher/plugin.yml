@@ -1,0 +1,5 @@
+name: SpongeLauncher
+version: 1.0
+main: org.bruddasmc.spongelauncher.Main
+description: This plugin launches players who stand on a sponge 
+author: Speedcell 

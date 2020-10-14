@@ -1,0 +1,11 @@
+name: HelloWorld
+version: 1.0
+author: Speedcell
+main: org.bruddasmc.helloworld.Main
+description: Hello world test
+
+commands:
+  hello:
+    aliases: [hi]
+    description: Hello command!
+    

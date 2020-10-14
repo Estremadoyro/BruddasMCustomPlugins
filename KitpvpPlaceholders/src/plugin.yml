@@ -1,0 +1,7 @@
+name: KitPvPPlaceholders
+version: 1.0
+main: org.bruddasmc.kitpvpplaceholders.Main
+author: Speedcell
+description: Custom placeholders for BruddasMC KitPvP
+depend:
+  - PlaceholderAPI

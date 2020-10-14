@@ -1,0 +1,9 @@
+name: Spawn
+version: 1.0
+main: org.bruddasmc.spawn.Main
+author: Speedcell
+
+commands: 
+  spawn: 
+    aliases: [overworld]
+    description: Send player to overworld spawn

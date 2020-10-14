@@ -1,0 +1,5 @@
+name: PlayerJoin
+version: 1.0
+author: Speedcell
+main: org.bruddasmc.listeners.Main
+description: Send message when players join

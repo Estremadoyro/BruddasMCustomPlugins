@@ -1,0 +1,22 @@
+name: HelpCommand
+version: 2.0
+main: org.bruddasmc.help.Main
+author: Speedcell
+description: Custom /help command for non-oped players 
+
+commands: 
+  sh:
+    aliases: []
+    description: prefix for the plugin 
+    
+  help: 
+     aliases: [helpp, assistance]
+     description: Show help message
+     
+  socials:
+    aliases: [discord, dc, disc, yt, youtube, twitter, store, twit]
+    description: Show all social media 
+  
+  hub:
+    aliases: [lobby]
+    description: Send a player to the hub 
